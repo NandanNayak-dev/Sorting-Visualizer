@@ -3,7 +3,7 @@
 A web-based Sorting Visualizer built with **HTML, CSS, and Vanilla JavaScript** that helps you understand how different sorting algorithms work through animations.
 
 ## 🚀 Live Demo
-**[Click here to view the live site!](https://nandannayak-dev.github.io/Sorting-Visualizer/)**
+**[Sorting Visualizer](https://nandannayak-dev.github.io/Sorting-Visualizer/)**
 
 ## 🎨 Features
 - **Visualize Multiple Algorithms:**
