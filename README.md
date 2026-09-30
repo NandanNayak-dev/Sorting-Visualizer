@@ -6,6 +6,7 @@ A web-based Sorting Visualizer built with **HTML, CSS, and Vanilla JavaScript** 
 **[Sorting Visualizer](https://nandannayak-dev.github.io/Sorting-Visualizer/)**
 
 ## 🎨 Features
+
 - **Visualize Multiple Algorithms:**
   - 🫧 **Bubble Sort**: Compares adjacent elements and swaps them if they are in the wrong order.
   - 🎯 **Selection Sort**: Repeatedly selects the minimum element and places it at the sorted end.
